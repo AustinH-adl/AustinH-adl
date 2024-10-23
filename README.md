@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">Bachelor of CompSci student at University of Adelaide</h3>
+Hi, I'm Austin 👋
+I'm a Computer Science student passionate about coding, problem-solving, and contributing to open-source projects. Currently, I'm pursuing my interest in open-source through the Adelaide University Computer Science Club, where I recently took on the role of Open Source Officer.
 
-- Contact me at: **austihh743@gmail.com**
+Languages & Tools
+C++: My go-to language for systems programming and performance-critical applications.
+Python: I love using Python for data analysis, automation, and scripting.
+Open Source Contributions
+As a member of the Adelaide University Computer Science Club, I'm always on the lookout for exciting projects where I can make meaningful contributions. Open source has become a central part of my journey, and I'm eager to connect with other contributors and learn from the community!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Support Me
+If you'd like to support my work or say thanks, feel free to buy me a coffee on Ko-fi!
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/AustinH"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AustinH" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=austinh-adl&show_icons=true&locale=en&layout=compact" alt="austinh-adl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=austinh-adl&show_icons=true&locale=en" alt="austinh-adl" /></p>
+Feel free to adjust the "YourUsername" to your actual GitHub username in the stats section.
