@@ -1,16 +1,22 @@
-Hi, I'm Austin 👋
+# 💫 About Me:
 I'm a Computer Science student passionate about coding, problem-solving, and contributing to open-source projects. Currently, I'm pursuing my interest in open-source through the Adelaide University Computer Science Club, where I recently took on the role of Open Source Officer.
 
-Languages & Tools
-C++: My go-to language for systems programming and performance-critical applications.
-Python: I love using Python for data analysis, automation, and scripting.
-Open Source Contributions
-As a member of the Adelaide University Computer Science Club, I'm always on the lookout for exciting projects where I can make meaningful contributions. Open source has become a central part of my journey, and I'm eager to connect with other contributors and learn from the community!
 
-Stats
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-huppatz-a1923059ua) 
 
-Support Me
-If you'd like to support my work or say thanks, feel free to buy me a coffee on Ko-fi!
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AustinH-adl&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AustinH-adl&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AustinH-adl&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=AustinH-adl&icon=0&color=1)](https://visitcount.itsvg.in)
 
-Feel free to adjust the "YourUsername" to your actual GitHub username in the stats section.
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/austinh) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
