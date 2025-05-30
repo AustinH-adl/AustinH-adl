@@ -10,6 +10,4 @@ I'm a Computer Science student passionate about coding, problem-solving, and con
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AustinH-adl&theme=shadow_blue&hide_border=false)
 
----
-[![](https://visitcount.itsvg.in/api?id=AustinH-adl&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
