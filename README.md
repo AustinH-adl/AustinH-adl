@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student passionate about coding, problem-solving, and contributing to open-source projects. Currently, I'm pursuing my interest in open-source through the Adelaide University Computer Science Club, where I recently took on the role of Open Source Officer.
+I'm a Computer Science student passionate about coding, problem-solving, and contributing to open-source projects. Currently I am interning at Google where I can utilize my passion for programming and open source skills in improving software.
 
 
 ## 🌐 Socials:
